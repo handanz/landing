@@ -1,0 +1,12 @@
+.card {
+  width: 25vw;
+  border: 1px solid #F5F5F5;
+  box-shadow: 1px 1px 1px #F5F5F5;
+  margin: 0 auto;
+  text-align: center;
+  object-fit: cover;
+}
+
+.card img {
+width: 260px;
+}
